@@ -1,0 +1,9 @@
+# Never ship secrets to the serverless bundle — these are supplied at runtime
+# as Vercel environment variables instead.
+.env
+serviceAccount.json
+*serviceAccount*.json
+data/history.json
+__pycache__/
+*.pyc
+.venv/

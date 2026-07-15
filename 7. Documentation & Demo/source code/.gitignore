@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Env & secrets
+.env
+.env.local
+backend/.env
+frontend/.env
+*serviceAccount*.json
+backend/data/history.json
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# Firebase
+.firebase/
+
+# Local assets (not tracked)
+New folder/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

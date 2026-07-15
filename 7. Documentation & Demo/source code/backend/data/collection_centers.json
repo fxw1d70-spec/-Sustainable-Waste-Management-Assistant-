@@ -1,0 +1,90 @@
+[
+  {
+    "id": "c1",
+    "name": "GreenCycle Recycling Hub",
+    "type": "recycling",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "address": "12 MG Road, City Center",
+    "hours": "Mon-Sat 8:00 AM - 6:00 PM",
+    "accepted": ["Plastic Waste", "Paper Waste", "Glass Waste", "Metal Waste"],
+    "contact": "+91 98765 43210"
+  },
+  {
+    "id": "c2",
+    "name": "TechRevive E-Waste Center",
+    "type": "e-waste",
+    "lat": 12.9611,
+    "lng": 77.6387,
+    "address": "45 Indiranagar 100ft Road",
+    "hours": "Mon-Fri 9:00 AM - 5:00 PM",
+    "accepted": ["E-Waste", "Metal Waste"],
+    "contact": "+91 98450 11223"
+  },
+  {
+    "id": "c3",
+    "name": "EarthCompost Organic Facility",
+    "type": "organic",
+    "lat": 12.9345,
+    "lng": 77.6101,
+    "address": "78 Koramangala 5th Block",
+    "hours": "Daily 7:00 AM - 7:00 PM",
+    "accepted": ["Organic Waste"],
+    "contact": "+91 90080 55667"
+  },
+  {
+    "id": "c4",
+    "name": "SafeDispose Hazardous Waste Depot",
+    "type": "hazardous",
+    "lat": 13.0067,
+    "lng": 77.5673,
+    "address": "3 Yeshwanthpur Industrial Area",
+    "hours": "Mon-Sat 10:00 AM - 4:00 PM",
+    "accepted": ["Hazardous Waste", "E-Waste"],
+    "contact": "+91 80471 99001"
+  },
+  {
+    "id": "c5",
+    "name": "UrbanLoop Recycling Point",
+    "type": "recycling",
+    "lat": 12.9982,
+    "lng": 77.5972,
+    "address": "22 Malleshwaram 8th Cross",
+    "hours": "Mon-Sun 8:00 AM - 8:00 PM",
+    "accepted": ["Plastic Waste", "Paper Waste", "Glass Waste"],
+    "contact": "+91 99001 22334"
+  },
+  {
+    "id": "c6",
+    "name": "BatteryBack Collection Kiosk",
+    "type": "hazardous",
+    "lat": 12.9260,
+    "lng": 77.6762,
+    "address": "9 HSR Layout Sector 2",
+    "hours": "Mon-Sat 9:30 AM - 6:30 PM",
+    "accepted": ["Hazardous Waste"],
+    "contact": "+91 91234 88990"
+  },
+  {
+    "id": "c7",
+    "name": "CityLeaf Garden Waste Yard",
+    "type": "organic",
+    "lat": 13.0298,
+    "lng": 77.6410,
+    "address": "56 Hebbal Ring Road",
+    "hours": "Tue-Sun 6:00 AM - 5:00 PM",
+    "accepted": ["Organic Waste"],
+    "contact": "+91 93456 77112"
+  },
+  {
+    "id": "c8",
+    "name": "MetroScrap Metal & Glass Depot",
+    "type": "recycling",
+    "lat": 12.9538,
+    "lng": 77.5674,
+    "address": "31 Jayanagar 4th Block",
+    "hours": "Mon-Sat 9:00 AM - 6:00 PM",
+    "accepted": ["Metal Waste", "Glass Waste"],
+    "contact": "+91 98800 44556"
+  }
+]
